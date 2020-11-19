@@ -11,6 +11,7 @@ Looking for a similar version for web? See: https://github.com/LennardDeurman/dm
 <div class="col-md-4">
 <div style="padding: 20px;">
 
+<img style="width: 100%;" src="https://github.com/LennardDeurman/dms-custom-ad-scripting/blob/master/resources/gif/headscroller.gif">
 
 </div>
 <h3>Split Video Creative</h3>
@@ -21,6 +22,8 @@ Looking for a similar version for web? See: https://github.com/LennardDeurman/dm
 <div style="padding: 20px;">
 
 
+<img style="width: 100%;" src="https://github.com/LennardDeurman/dms-custom-ad-scripting/blob/master/resources/gif/interscroller_ad.gif">
+
 </div>
 <h3>Headscroller Ad</h3>
 </div>
@@ -28,6 +31,8 @@ Looking for a similar version for web? See: https://github.com/LennardDeurman/dm
 <div class="col-md-4">
 <div style="padding: 20px;">
 
+
+<img style="width: 100%;" src="https://github.com/LennardDeurman/dms-custom-ad-scripting/blob/master/resources/gif/split_video_creative.gif">
 
 </div>
 <h3>Interscroller Ad</h3>
