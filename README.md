@@ -25,7 +25,7 @@ Looking for a similar version for web? See: https://github.com/LennardDeurman/dm
 <img style="width: 100%;" src="https://github.com/LennardDeurman/dms-custom-ad-scripting/blob/master/resources/gif/interscroller_ad.gif">
 
 </div>
-<h3>Headscroller Ad</h3>
+<h3>Interscroller Ad</h3>
 </div>
 
 <div class="col-md-4">
@@ -35,7 +35,7 @@ Looking for a similar version for web? See: https://github.com/LennardDeurman/dm
 <img style="width: 100%;" src="https://github.com/LennardDeurman/dms-custom-ad-scripting/blob/master/resources/gif/split_video_creative.gif">
 
 </div>
-<h3>Interscroller Ad</h3>
+<h3>Headscroller Ad</h3>
 </div>
 
 
